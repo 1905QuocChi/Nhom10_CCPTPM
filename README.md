@@ -125,7 +125,7 @@ Ta chọn connect
 #### 5.5 Sau khi kết nối thành công ta sử dụng các câu lệnh để deploy web
 
 ![image](https://github.com/VoHongKhang/Nhom10_CCPTPM/assets/119037853/93f6c784-8137-4ae2-abcc-0d13cb94c795)
-
+ 
 Đây là các câu lệnh
 ```
 - sudo -i
